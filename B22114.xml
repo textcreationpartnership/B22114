@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for excluding such members of either House of Parliament, as have deserted the Parliament and adhered to those that leavie war against the Parliament.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22114</idno><idno type="EEBO-CITATION">12066036</idno>
+  <idno type="VID">196786</idno>
+  <idno type="EEBO-PROQUEST">2240957536</idno>
+  
+            <idno type="STC">Wing E1889</idno>
+            <idno type="OCLC">12066036</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196786)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 237:E54, no 10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for excluding such members of either House of Parliament, as have deserted the Parliament and adhered to those that leavie war against the Parliament.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 9, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196786:1"/>
+            <p>AN ORDINANCE OF THE Lords and Commons Assembled in PARLIAMENT, For Excluding such MEMBERS OF Either House of Parliament, As have deserted the Parliament, and adhered to those that Leavie War against the Parliament.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi, 29. Junii, 1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons in Parliament, That this Ordinance be forthwith printed &amp; published:</p>
+                        <closer>
+                           <signed>Henry Elsyng, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> and are to be sold at his shop in the Middle-Temple. Iuly 9. 1644.</p>
+            <pb facs="tcp:196786:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb n="3" facs="tcp:196786:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi, 29. Junii, 1644.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance of the <hi>Lords</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons</hi> in Parliament assembled, for the excluding of the Members of ei<g ref="char:EOLhyphen"/>ther House of Parliament, that have deserted the Parliament, and ad<g ref="char:EOLhyphen"/>hered to those that leavie VVarre against the Parliament.</head>
+            <p>THe Lords and Commons now assembled in Parliament, taking into consideration, That divers Members of both their Houses, have since the beginning of the unhappy distractions now depending, in breach of their duties, withdrawn them<g ref="char:EOLhyphen"/>selves from that attendance upon the
+<pb n="4" facs="tcp:196786:3"/> Pub<g ref="char:EOLhyphen"/>l<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s of <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gdom in Parliament: To which the necessi<g ref="char:EOLhyphen"/>ties of the Kingdom, and the trust in them reposed, have obliged them; and have also joyned with, and repaired unto that party that is now in Arms against the Parliament, and seriously weighing the great inconvenience and prejudice which hath arisen, and may further arise in respect thereof, the same tending to the scandall and dis<g ref="char:EOLhyphen"/>honour of the Parliament, the discou<g ref="char:EOLhyphen"/>ragement of such as are well-affe<g ref="char:EOLhyphen"/>cted, and the subversion of Religion, Laws and Liberty; by means where<g ref="char:EOLhyphen"/>of the whole Kingdom is neerly inte<g ref="char:EOLhyphen"/>rested and concerned in their said de<g ref="char:EOLhyphen"/>parture and offence: And whereas divers Members of the House of Commons, which have deserted the Parliament, and adhered unto those that leavie War against the Parlia<g ref="char:EOLhyphen"/>ment, have by Iudgement of the House of Commons, been justly disa<g ref="char:EOLhyphen"/>bled
+<pb n="5" facs="tcp:196786:3"/> from sitting or continuing any longer Members of the said House du<g ref="char:EOLhyphen"/>ring this present Parliament; By which Iudgement the severall and respective Counties, Cities, Bo<g ref="char:EOLhyphen"/>roughs and places for which they ser<g ref="char:EOLhyphen"/>ved, have right to Elect new Mem<g ref="char:EOLhyphen"/>bers for the Parliament, upon a War<g ref="char:EOLhyphen"/>rant under the hand of the Speaker of the House of Commons, directing a Writ to issue under the Broad-Seal to that purpose. And whereas divers Members of the House of Peers have also deserted the said House of Peers, and adhered to those that leavie War against the Parliament:</p>
+            <p>The Lords and Commons assem<g ref="char:EOLhyphen"/>bled in Parliament, do Ordain and Declare, That whatsoever Member of the said House of Peers hath so of<g ref="char:EOLhyphen"/>fended, or hereafter shall so offend as aforesaid, shall be disabled from ha<g ref="char:EOLhyphen"/>ving any voice, or sitting in the said House of Peers during this present
+<pb n="6" facs="tcp:196786:4"/> Parliament, untill his readmittance shall be approved of, and consent<g ref="char:EOLhyphen"/>ed unto by both Houses of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Provided alwayes, and it is hereby Ordained and Declared, That what<g ref="char:EOLhyphen"/>soever Member of the House of Com<g ref="char:EOLhyphen"/>mons, that heretofore hath deserted, or hereaftet shall desert the Parlia<g ref="char:EOLhyphen"/>ment, and adhere to those that leavie War against the Parliament, is and shall be absolutely disabled from sit<g ref="char:EOLhyphen"/>ting in the said House of Commons during this present Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="license">
+            <pb n="7" facs="tcp:196786:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi, 29 Iunii, 1644.</date>
+               </dateline>
+            </opener>
+            <p>It is this Day Ordered by the Commons assembled in Parliament, That this Ordinance bee forthwith printed and published:</p>
+            <closer>
+               <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
